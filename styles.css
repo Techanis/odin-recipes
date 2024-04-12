@@ -1,0 +1,43 @@
+/* styles.css */
+
+* {
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-family: Verdana, sans-serif
+}
+
+.title1 {
+    color: rgb(255, 255, 0);
+    background-color: black;
+    font-size: 40;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1, .title2 {
+    color: brown;
+    font-size: 32;
+    font-weight: bold;
+    text-align: center;
+}
+
+.recipe_intro{
+    font-size: 14;
+    color: rgb(104, 104, 104);
+    font-weight: bold;
+}
+
+.image_r {
+    height: auto;
+    width: 600;
+}
+
+.image_p {
+    height: 800;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+.text_c {
+    text-align: center;
+}
